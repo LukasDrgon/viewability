@@ -10,6 +10,7 @@ Browser package to check if the element is on screen without dependencies. Or yo
 [![devDependency Status](https://david-dm.org/kahwee/viewability/dev-status.svg)](https://david-dm.org/kahwee/viewability#info=devDependencies)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![bitHound Score](https://www.bithound.io/github/kahwee/viewability/badges/score.svg)](https://www.bithound.io/github/kahwee/viewability)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/viewability/badge?style=rounded)](https://www.jsdelivr.com/package/npm/viewability)
 
 No dependencies.
 
